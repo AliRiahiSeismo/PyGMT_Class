@@ -1,0 +1,11 @@
+name: pygmt-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pygmt
+  - gmt
+  - numpy
+  - pandas
+  - xarray
+  - ipykernel
